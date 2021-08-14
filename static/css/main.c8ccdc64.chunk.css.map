@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,SACE,SAAU,CACV,cACF,CAEA,kBACE,SACF,CAEA,EACE,oBAAqB,CACrB,cACF","file":"main.c8ccdc64.chunk.css","sourcesContent":[".icons a {\n  opacity: 0;\n  font-size: 20px;\n}\n\ntr:hover .icons a {\n  opacity: 1;\n}\n\na {\n  text-decoration: none;\n  cursor: pointer;\n}\n"]}
